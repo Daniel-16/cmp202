@@ -7,3 +7,8 @@
 - Java swing library - File writer
 - Exception handling
 - Streams API
+
+## Notes
+
+- String (Object/Reference type)
+- Primitive types hold the byte value you want to store
