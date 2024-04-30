@@ -14,7 +14,7 @@ public class Student extends User {
         if (matric_no.equals("") || admission_no.equals("")) {
             return "Cannot check your result. Are you even a student?";
         } else {
-            return "You got 6As and 10Ds";
+            return "You got 6As and 1B";
         }
     }    
 }
