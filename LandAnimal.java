@@ -1,8 +1,8 @@
 public class LandAnimal extends Animal {
-    // @Override
-    // String move() {
-    //     return "Swings on tree";
-    // }
+    @Override
+    String move() {
+        return "Swings on tree";
+    }
     public static void main(String[] args) {
         LandAnimal lion = new LandAnimal();
         // lion.name = "Leo";
