@@ -13,9 +13,5 @@ public class CMP202 {
         if (password.contains("123") || password.contains("User")) {
             System.out.println("Password is not strong enough");
         }
-    }
-    public static void main(String[] args) {
-        CMP202 printUser = new CMP202();
-        printUser.printUserDetails();
-    }
+    }    
 }
