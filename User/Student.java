@@ -14,15 +14,7 @@ public class Student extends User {
         if (matric_no.equals("") || admission_no.equals("")) {
             return "Cannot check your result. Are you even a student?";
         } else {
-            return "You got 6As and 10Ds";
+            return "You got 6As and 1B";
         }
-    }
-    public static void main(String[] args) {
-        Student student = new Student();
-        student.name = "Daniel Toba";
-        student.password = "DanCodes123";
-        System.out.println(student.register());
-        System.out.println(student.registerCourse());
-        System.out.println(student.checkResults());
-    }
+    }    
 }
