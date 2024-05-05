@@ -1,8 +1,8 @@
 public class User {
     String username = "Dan-Codes";
-    String password = "Pass@123";
+    String email = "daniel@mail.com";
     String login() {
-        if (username.equals("Dan-Codes") && password.equals("Pass@123")) {
+        if (username.equals("Dan-Codes") && email.equals("daniel@mail.com")) {
             return "Logged in";
         } else {
             return "Failed";
