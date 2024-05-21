@@ -5,8 +5,9 @@ public class Main {
         CMP202 printUser = new CMP202();
         printUser.printUserDetails();
         Person person = new Person();
-        System.out.println(person.getName());
         person.setName("Jane Doe");
+        System.out.println(person.getName());
+        System.out.println(person.setPassword("1243533"));;
         // person.password = "12344";
     }
 }
