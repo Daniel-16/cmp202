@@ -12,3 +12,5 @@
 
 - String (Object/Reference type)
 - Primitive types hold the byte value you want to store
+
+Method overloading - methods with the same name but different parameters/signatures
