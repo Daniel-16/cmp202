@@ -14,3 +14,6 @@
 - Primitive types hold the byte value you want to store
 
 Method overloading - methods with the same name but different parameters/signatures
+Interface is a collection of abstract methods(methods with no body).
+Classes automatically inherit from the object class.
+Array is a homogenous collection of elements.
