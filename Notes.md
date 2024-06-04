@@ -17,3 +17,7 @@ Method overloading - methods with the same name but different parameters/signatu
 Interface is a collection of abstract methods(methods with no body).
 Classes automatically inherit from the object class.
 Array is a homogenous collection of elements.
+
+Dont remove an item from empty stack - Insert at top of the stack - Remove from the top - Dont insert into a full stack
+Adding an item into a stack is "push"
+Removing is to pop.
